@@ -1,0 +1,15 @@
+Metric,Value
+Total Days Analyzed,245
+Average Weighted Sentiment,0.1805
+Average Unweighted Sentiment,0.1484
+Weighted vs Unweighted Correlation,0.609
+Most Positive Day,2022-07-27 (0.7473)
+Most Negative Day,2019-04-14 (-0.1846)
+Average Daily Tweets,3087
+Total Tweets Analyzed,"756,401"
+Positive Days (%),98.0%
+Negative Days (%),2.0%
+Highest Daily Sentiment,0.7473
+Lowest Daily Sentiment,-0.1846
+Average Positivity Score,8.72%
+Average Negativity Score,4.32%
